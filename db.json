@@ -100,7 +100,7 @@
 
 
   ],
-  "subAssunto": [
+  "outros": [
     {"id": 1, "id_assunto": 1, "titulo": "Farmacocinética: dinâmica da absorção, distribuição, biotransformação e eliminação dos fármacos", "numeracao": "1.1", "estudado": false},
     {"id": 2, "id_assunto": 1, "titulo": "Farmacodinâmica: mecanismo de ação dos fármacos e a relação entre sua concentração e seu efeito", "numeracao": "1.2", "estudado": false},
     {"id": 3, "id_assunto": 1, "titulo": "Sistema nervoso central e autônomo", "numeracao": "1.3", "estudado": false},
